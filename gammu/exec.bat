@@ -1,0 +1,1 @@
+D:/laragon/bin/php/php-5.6.16/ -f D:/laragon/www/gammu/proses.php
