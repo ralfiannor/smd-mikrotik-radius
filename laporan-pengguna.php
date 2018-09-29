@@ -95,7 +95,7 @@ body {
 </head>
 <body>
 <div style='position:absolute;z-index:0;left:0;top:0;width:100%;height:100%'>
-  <img src='kop.png' style='width:100%;height:100%' alt='[]'>
+  <img src='assets/img/kop.png' style='width:100%;height:100%' alt='[]'>
 </div><br><br><br><br><br><br><br><br><center><h2><b><u>Laporan Pengguna <?= ($page=='baru' ? 'Baru' : 'Nonaktif' ) ?></u></b></h2>
 <p>Periode <?= $tglawal ?> s.d. <?= $tglakhir ?></p><br><br>
 
