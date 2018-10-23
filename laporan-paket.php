@@ -1,7 +1,5 @@
 <?php
     require_once("class/session.class.php");  
-
-
     require_once("class/paket.class.php");
 
     $user_id = $_SESSION['user_session'];    
