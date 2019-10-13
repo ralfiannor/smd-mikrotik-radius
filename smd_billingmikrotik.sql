@@ -40,7 +40,7 @@ CREATE TABLE `admins` (
 --
 
 INSERT INTO `admins` (`id`, `username`, `email`, `password`, `nama`, `joining_date`) VALUES
-(1, 'admin', 'admin@mail.com', '$2y$10$MYA3of3jvHr08URMkWNJweq3NYDPRIPeLtKIDBwou5Y8BEEGnGAvC', 'Administrator', '2016-07-15 03:46:59');
+(1, 'admin', 'admin@mail.com', '$2y$10$iHLmoS4XgTI1yMcOK3FxuOAFqxkhCMOPHt8B65dMXyg0gL6ZjAJRa', 'Administrator', '2016-07-15 03:46:59');
 
 -- --------------------------------------------------------
 

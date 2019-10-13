@@ -15,3 +15,7 @@ This source code is part of "Praktik Kerja Lapangan" on Samudra Network Banjarba
 - Setting db in config/database.php
 - Import db "smd_billingmikrotik.sql" and "radius.sql"
 - Run web and make sure mikrotik + radius is connected
+
+### User
+- Username: admin@mail.com
+- Password: admin
